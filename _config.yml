@@ -3,7 +3,7 @@ baseurl: "https://tylerig.github.io/shots/"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: ""
+google_analytics: "G-QTRV4XXR02"
 
 # UI configs
 title: "shots"
